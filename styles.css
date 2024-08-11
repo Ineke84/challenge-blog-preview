@@ -42,10 +42,6 @@ h3 {
 	font-size: var(--font-size-heading);
 	font-weight: 800;
 	color: var(--color-text-dark);
-
-	&:hover {
-		color: var(--color-primary);
-	}
 }
 
 p {
@@ -69,6 +65,7 @@ main {
 	border-radius: 1.25rem;
 	padding: 1.5rem;
 	box-shadow: 0.5rem 0.5rem var(--color-border);
+	transition: box-shadow 0.3s ease;
 
 	.blog-image {
 		border-radius: 0.625rem;
@@ -90,6 +87,14 @@ main {
 			font-size: var(--font-size-small);
 			font-weight: 800;
 			color: var(--color-text-dark);
+		}
+	}
+
+	&:hover {
+		box-shadow: 1rem 1rem var(--color-border);
+
+		h3 {
+			color: var(--color-primary);
 		}
 	}
 }
