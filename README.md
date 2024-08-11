@@ -67,6 +67,8 @@ This has also been the first project where I'm using css properties for fonts an
 
 A new css function for me is clamp(). I have made some use of it in this project. However I'm still in doubt if I did it correctly and I could probably use it even more.
 
+I forgot alt text with my images (again), next time I should really keep this in mind.
+
 ### Continued development
 
 I want to further improve on using clamp() and creating accessable responsive websites.

@@ -32,7 +32,7 @@ body {
 	background-color: var(--color-primary);
 }
 
-h3 {
+h1 {
 	font-size: var(--font-size-heading);
 	font-weight: 800;
 	color: var(--color-text-dark);
@@ -87,7 +87,7 @@ main {
 	&:hover {
 		box-shadow: 1rem 1rem var(--color-border);
 
-		h3 {
+		h1 {
 			color: var(--color-primary);
 		}
 	}
