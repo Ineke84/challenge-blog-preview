@@ -81,6 +81,7 @@ The information about using rem I got from:
 
 - [Using rem doesn't make your website responsive, here's why](https://dev.to/marcelluscaio/using-rem-doesnt-make-your-website-responsive-heres-why-4b0e) - Article on dev.to by Caio Marcellus Cabral that inspired me to use css properties for font-sizes and made me understand the effect of rem on accessability.
 - [Please stop using px for font-size](https://www.youtube.com/watch?v=xCSw6bPXZks) - Video by Coder Coder
+- [Modern Fluid Typography Using CSS Clamp](https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/) - Article by Adrian Bece that explains how to use clamp() with font-sizes.
 
 ## Author
 
